@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+    <string name="ApplicationName">Pierwsza Aplikacja</string>
+    <string name="GiveNumber">Wpisz numer telefonu</string>
+    <string name="CallText">Zadzwoń</string>
+    <string name="Cancel">Anuluj</string>
+    <string name="AlertInfo">Te połączenie może być płatne. Czy chcesz kontynuować?</string>
+</resources>

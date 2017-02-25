@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">My First App</string>
+    <string name="GiveNumber">Enter a phone number</string>
+    <string name="CallText">Call</string>
+    <string name="Cancel">Cancel</string>
+    <string name="AlertInfo">This call might be charged. Do you want to continue?</string>
+</resources>
